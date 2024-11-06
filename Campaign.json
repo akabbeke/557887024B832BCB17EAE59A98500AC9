@@ -1,0 +1,640 @@
+{
+	"Name": "Mr. Fist",
+	"GameDate": "3034.03.13-14.00.00",
+	"LastSaveDate": "2024.11.04-04.41.35",
+	"Reputation": 27385,
+	"LastSaveFileName": "",
+	"StartConditionId": "MWStartConditionsAsset:CareerMode_Steiner_Start",
+	"MercCompanyIconId": "",
+	"Saves": [
+		{
+			"SaveFileName": "17A6FCC44A3C41499E3BAD8903314FBE",
+			"Name": "Timbuktu",
+			"GameDate": "3015.09.09-14.00.00",
+			"GameTimeElapsed": 204768000000000,
+			"TimePlayedInSeconds": 4847,
+			"ReputationLevel": 2,
+			"Reputation": 300,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:CantinaAsperational_Transmission",
+			"StarSystemName": "Timbuktu",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "2FCF253F499950DDA828EAA918D15EDF",
+			"Name": "Urjala",
+			"GameDate": "3016.10.30-14.00.00",
+			"GameTimeElapsed": 565056000000000,
+			"TimePlayedInSeconds": 9236,
+			"ReputationLevel": 3,
+			"Reputation": 560,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:CantinaAsperational_Transmission",
+			"StarSystemName": "Urjala",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "42D9960B4E01BB5FBDB9D0957259307C",
+			"Name": "Kostinbrod",
+			"GameDate": "3017.10.17-14.00.00",
+			"GameTimeElapsed": 869184000000000,
+			"TimePlayedInSeconds": 13668,
+			"ReputationLevel": 5,
+			"Reputation": 1550,
+			"SaveType": 0,
+			"TrackedObjectiveId": "",
+			"StarSystemName": "Kostinbrod",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "C75E8C364A5F112C191E98B58AE08656",
+			"Name": "Kamenz",
+			"GameDate": "3020.06.21-14.00.00",
+			"GameTimeElapsed": 1714176000000000,
+			"TimePlayedInSeconds": 24715,
+			"ReputationLevel": 6,
+			"Reputation": 3434,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D2_Q1_M1_Prompt",
+			"StarSystemName": "Kamenz",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "5EE8C5A2436A49B2D9964ABFA7ED7309",
+			"Name": "Cavanaugh",
+			"GameDate": "3020.09.09-14.00.00",
+			"GameTimeElapsed": 1783296000000000,
+			"TimePlayedInSeconds": 25431,
+			"ReputationLevel": 6,
+			"Reputation": 3654,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D2_Q1_M1_Prompt",
+			"StarSystemName": "Cavanaugh",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "0B08D1924881EE43A990B3AC6520B072",
+			"Name": "Poulsbo",
+			"GameDate": "3022.03.08-14.00.00",
+			"GameTimeElapsed": 2254176000000000,
+			"TimePlayedInSeconds": 32142,
+			"ReputationLevel": 7,
+			"Reputation": 5224,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D2_Q1_M1_Prompt",
+			"StarSystemName": "Poulsbo",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "BD02D8BF441C34BE93F965A4FEFF4D8A",
+			"Name": "Poulsbo",
+			"GameDate": "3022.03.08-14.00.00",
+			"GameTimeElapsed": 2254176000000000,
+			"TimePlayedInSeconds": 32153,
+			"ReputationLevel": 7,
+			"Reputation": 5224,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D2_Q1_M1_Prompt",
+			"StarSystemName": "Poulsbo",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "FB161BBC4C2FE7D6479FC9969D4562E7",
+			"Name": "Eilenburg",
+			"GameDate": "3023.03.03-14.00.00",
+			"GameTimeElapsed": 2565216000000000,
+			"TimePlayedInSeconds": 35838,
+			"ReputationLevel": 7,
+			"Reputation": 6244,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D2_Q1_M1_Prompt",
+			"StarSystemName": "Eilenburg",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "573CA2F74EC176936ECAA2963CE12913",
+			"Name": "Caledonia",
+			"GameDate": "3023.09.19-14.00.00",
+			"GameTimeElapsed": 2738016000000000,
+			"TimePlayedInSeconds": 39064,
+			"ReputationLevel": 7,
+			"Reputation": 7348,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D2_Q1_M1_Prompt",
+			"StarSystemName": "Caledonia",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "CCEF299D4A5FE9D20AB441A1A94E036B",
+			"Name": "Caledonia",
+			"GameDate": "3023.11.07-14.00.00",
+			"GameTimeElapsed": 2780352000000000,
+			"TimePlayedInSeconds": 39540,
+			"ReputationLevel": 7,
+			"Reputation": 7348,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D2_Q1_M1_Prompt",
+			"StarSystemName": "Caledonia",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "556B829945761EBBE3F5CAB1F25AAD02",
+			"Name": "Canonbie",
+			"GameDate": "3025.01.07-14.00.00",
+			"GameTimeElapsed": 3149280000000000,
+			"TimePlayedInSeconds": 43619,
+			"ReputationLevel": 8,
+			"Reputation": 9603,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:DLC_ARC_Prompt2",
+			"StarSystemName": "Canonbie",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "EAE8DB254032D1C6E3BBC2A671EF67FD",
+			"Name": "Kalidasa",
+			"GameDate": "3027.11.18-14.00.00",
+			"GameTimeElapsed": 4052160000000000,
+			"TimePlayedInSeconds": 51061,
+			"ReputationLevel": 8,
+			"Reputation": 12253,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D2_Q2_M1_Prompt",
+			"StarSystemName": "Kalidasa",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "E6813EEB4441C43A31B5DB81C451CC9C",
+			"Name": "Tigress",
+			"GameDate": "3029.01.31-14.00.00",
+			"GameTimeElapsed": 4432320000000000,
+			"TimePlayedInSeconds": 58883,
+			"ReputationLevel": 9,
+			"Reputation": 13690,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D2_Q4_M2_Prompt",
+			"StarSystemName": "Tigress",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "0A5691FB45FC1FE57FB412ADAAA14B42",
+			"Name": "Sarna",
+			"GameDate": "3029.10.19-14.00.00",
+			"GameTimeElapsed": 4657824000000000,
+			"TimePlayedInSeconds": 63852,
+			"ReputationLevel": 9,
+			"Reputation": 16995,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:DLC2_M14_Prompt",
+			"StarSystemName": "Sarna",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "79A21C4049DF91B5C78BC488D711CFAE",
+			"Name": "Sarna",
+			"GameDate": "3029.10.19-14.00.00",
+			"GameTimeElapsed": 4657824000000000,
+			"TimePlayedInSeconds": 63957,
+			"ReputationLevel": 9,
+			"Reputation": 16995,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:DLC2_M14_Prompt",
+			"StarSystemName": "Sarna",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "C75055974B8329301862C58D7DC2E93E",
+			"Name": "Lee",
+			"GameDate": "3030.01.04-14.00.00",
+			"GameTimeElapsed": 4724352000000000,
+			"TimePlayedInSeconds": 67569,
+			"ReputationLevel": 9,
+			"Reputation": 18255,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D2_Q4_M2_Prompt",
+			"StarSystemName": "Lee",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2"
+			]
+		},
+		{
+			"SaveFileName": "027F6F3249950E77AB16A4B96A9215DB",
+			"Name": "Gallitzin",
+			"GameDate": "3030.02.08-14.00.00",
+			"GameTimeElapsed": 4754592000000000,
+			"TimePlayedInSeconds": 68622,
+			"ReputationLevel": 9,
+			"Reputation": 18255,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D2_Q4_M2_Prompt",
+			"StarSystemName": "Gallitzin",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "BE63B3864414F827CA65F399C7461262",
+			"Name": "Cammal",
+			"GameDate": "3030.05.21-14.00.00",
+			"GameTimeElapsed": 4842720000000000,
+			"TimePlayedInSeconds": 70364,
+			"ReputationLevel": 9,
+			"Reputation": 18975,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D2_Q4_M2_Prompt",
+			"StarSystemName": "Cammal",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "61F5EAF847A432EAA73F9BBBCA886C2D",
+			"Name": "Bernardo",
+			"GameDate": "3032.01.10-14.00.00",
+			"GameTimeElapsed": 5360256000000000,
+			"TimePlayedInSeconds": 75597,
+			"ReputationLevel": 10,
+			"Reputation": 22860,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:DLC_ARC_Prompt4",
+			"StarSystemName": "Bernardo",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "03AEB1B8403E252582AD3AB2D4FB7E89",
+			"Name": "Bernardo",
+			"GameDate": "3032.01.10-14.00.00",
+			"GameTimeElapsed": 5360256000000000,
+			"TimePlayedInSeconds": 75639,
+			"ReputationLevel": 10,
+			"Reputation": 22860,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:DLC_ARC_Prompt4",
+			"StarSystemName": "Bernardo",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "72EE7A024F7CB25A6007BC9A4B3DD9E7",
+			"Name": "New Mendham",
+			"GameDate": "3032.10.11-14.00.00",
+			"GameTimeElapsed": 5597856000000000,
+			"TimePlayedInSeconds": 80014,
+			"ReputationLevel": 10,
+			"Reputation": 26375,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D2_Q6_M1_Prompt",
+			"StarSystemName": "New Mendham",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "FECEE3CF4765DE161764F2A48CA73403",
+			"Name": "AutoSave (Finished Mission)",
+			"GameDate": "3033.04.21-14.00.00",
+			"GameTimeElapsed": 5763744000000000,
+			"TimePlayedInSeconds": 82257,
+			"ReputationLevel": 10,
+			"Reputation": 27045,
+			"SaveType": 1,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:DLC4_Pt3_6MonthTillOffer",
+			"StarSystemName": "Blue Diamond",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "3C2CDD8A4B38354B2013E283916020E9",
+			"Name": "AutoSave (Entered System)",
+			"GameDate": "3033.05.04-14.00.00",
+			"GameTimeElapsed": 5774976000000000,
+			"TimePlayedInSeconds": 82457,
+			"ReputationLevel": 10,
+			"Reputation": 27045,
+			"SaveType": 1,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:DLC4_Pt3_6MonthTillOffer",
+			"StarSystemName": "Meacham",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "D3E4010C4E4F04EE7F7C58BEA9823D26",
+			"Name": "AutoSave (Paid Bill)",
+			"GameDate": "3033.06.20-14.00.00",
+			"GameTimeElapsed": 5815584000000000,
+			"TimePlayedInSeconds": 82582,
+			"ReputationLevel": 10,
+			"Reputation": 27045,
+			"SaveType": 1,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:DLC4_Pt3_6MonthTillOffer",
+			"StarSystemName": "Meacham",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "EA1F447F442BD7043968F898594398AC",
+			"Name": "AutoSave (Mission)",
+			"GameDate": "3033.06.25-14.00.00",
+			"GameTimeElapsed": 5819904000000000,
+			"TimePlayedInSeconds": 82598,
+			"ReputationLevel": 10,
+			"Reputation": 27045,
+			"SaveType": 1,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:DLC4_Pt3_6MonthTillOffer",
+			"StarSystemName": "Meacham",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "5E219D8144D69EE9491F0586A9F51350",
+			"Name": "AutoSave (Finished Mission)",
+			"GameDate": "3033.07.09-14.00.00",
+			"GameTimeElapsed": 5832000000000000,
+			"TimePlayedInSeconds": 82818,
+			"ReputationLevel": 10,
+			"Reputation": 27215,
+			"SaveType": 1,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:DLC4_Pt3_6MonthTillOffer",
+			"StarSystemName": "Meacham",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "DBC979124A82B93F29986F85CC81E62E",
+			"Name": "AutoSave (Mission)",
+			"GameDate": "3033.07.11-14.00.00",
+			"GameTimeElapsed": 5833728000000000,
+			"TimePlayedInSeconds": 82885,
+			"ReputationLevel": 10,
+			"Reputation": 27215,
+			"SaveType": 1,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:DLC4_Pt3_6MonthTillOffer",
+			"StarSystemName": "Meacham",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "F872880D4E4DBFDBBAFD00843BA5F258",
+			"Name": "AutoSave (Finished Mission)",
+			"GameDate": "3033.07.19-14.00.00",
+			"GameTimeElapsed": 5840640000000000,
+			"TimePlayedInSeconds": 83378,
+			"ReputationLevel": 10,
+			"Reputation": 27385,
+			"SaveType": 1,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:DLC4_Pt3_6MonthTillOffer",
+			"StarSystemName": "Meacham",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "CAEAADFB4364C4651BA492BF1209539F",
+			"Name": "Meacham",
+			"GameDate": "3033.07.19-14.00.00",
+			"GameTimeElapsed": 5840640000000000,
+			"TimePlayedInSeconds": 83581,
+			"ReputationLevel": 10,
+			"Reputation": 27385,
+			"SaveType": 0,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:DLC4_Pt3_6MonthTillOffer",
+			"StarSystemName": "Meacham",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "DF7C2B314F8AD2F1A0CD9C8956745A23",
+			"Name": "AutoSave (Entered System)",
+			"GameDate": "3033.10.03-14.00.00",
+			"GameTimeElapsed": 5906304000000000,
+			"TimePlayedInSeconds": 83730,
+			"ReputationLevel": 10,
+			"Reputation": 27385,
+			"SaveType": 1,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:S6_Prompt",
+			"StarSystemName": "Kurhah",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "E63D529F409732964C4A79AE549D7233",
+			"Name": "AutoSave (Entered System)",
+			"GameDate": "3034.03.13-14.00.00",
+			"GameTimeElapsed": 6045408000000000,
+			"TimePlayedInSeconds": 83893,
+			"ReputationLevel": 10,
+			"Reputation": 27385,
+			"SaveType": 1,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D4M05_Prompt",
+			"StarSystemName": "Rasalhague",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "1BAD7FC7458BC2EF68BEF58DE68FFB50",
+			"Name": "AutoSave (Mission)",
+			"GameDate": "3034.03.13-14.00.00",
+			"GameTimeElapsed": 6045408000000000,
+			"TimePlayedInSeconds": 84042,
+			"ReputationLevel": 10,
+			"Reputation": 27385,
+			"SaveType": 1,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D4M05_Prompt",
+			"StarSystemName": "Rasalhague",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		},
+		{
+			"SaveFileName": "6962A1B445777FF8C913EABE8018E942",
+			"Name": "ReloadSave",
+			"GameDate": "3034.03.13-14.00.00",
+			"GameTimeElapsed": 6045408000000000,
+			"TimePlayedInSeconds": 84051,
+			"ReputationLevel": 10,
+			"Reputation": 27385,
+			"SaveType": 2,
+			"TrackedObjectiveId": "MWMetagameObjectiveAsset:D4M05_Prompt",
+			"StarSystemName": "Rasalhague",
+			"bMultiplayerEnabled": true,
+			"DLCTags": [
+				"DLC.DLC1",
+				"DLC.DLC2",
+				"DLC.DLC3",
+				"DLC.DLC4",
+				"DLC.DLC5",
+				"DLC.DLC6"
+			]
+		}
+	]
+}
